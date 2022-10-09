@@ -1,0 +1,9 @@
+// 두 정수가 같으면 1, 다르면 -1 리턴
+class Solution {
+    public int solution(int num1, int num2) {
+        if(num1 == num2){
+            return 1;
+        }else{return -1;}
+        
+    }
+}
